@@ -1,4 +1,4 @@
-# INOX F&B Track Order App
+# INOX Food Ordering App
 
 React Native app for ordering food & beverages at INOX, with Razorpay payment integration.
 
