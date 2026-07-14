@@ -11,7 +11,7 @@ React Native app for ordering food & beverages at INOX, with Razorpay payment in
 ## Project Structure
 ```
 InoxFoodApp/          # React Native app
-inox-payment-server/  # Node/Express backend for Razorpay
+backend/  # Node/Express backend for Razorpay
 ```
 
 ---
